@@ -12,7 +12,7 @@ export default function AboutPage() {
         <s.Title>Projeto Astromatch</s.Title>
         
         <s.Text>
-          O Projeto LabeX foi desenvolvido como uma ativage dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu, via axios.
+          O Projeto LabeX foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu, via axios.
         </s.Text>
 
         <s.Text>
