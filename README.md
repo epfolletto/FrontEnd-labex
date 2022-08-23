@@ -67,11 +67,11 @@ Rodar o projeto:
 </div>
 
 # `Paleta de cores utilizada`
-.color0 { #77bccc };
-.color1 { #5eb3c7 };
-.color2 { #47a1b5 };
-.color3 { #2f90a3 };
-.color4 { #187e91 };
+.color0 { #77bccc }; </br>
+.color1 { #5eb3c7 }; </br>
+.color2 { #47a1b5 }; </br>
+.color3 { #2f90a3 }; </br>
+.color4 { #187e91 }; </br>
 .color5 { #006c7f };
 
 # `Autor`
