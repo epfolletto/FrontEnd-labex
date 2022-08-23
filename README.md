@@ -2,7 +2,7 @@
 Projeto LabeX
 
 # `Link`
-https://folletto-labex.surge.sh
+[Clique aqui!](https://folletto-labex.surge.sh)
 
 
 # `Descrição`
