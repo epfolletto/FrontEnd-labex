@@ -22,10 +22,10 @@ As requisições utilizadas para realizar este projeto foram:
 - **Populate***: endpoint para popular o banco de dados para testes;
 - **Signup***: endpoint utilizado para criar usuário admin.
 
-*endpoints utilizados apenas em desenvolvimento
+*endpoints utilizados apenas em desenvolvimento.
 </br>
 
-A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/9133542/TzCTZkQr#9416bc30-1a6c-4afe-9c45-c414f3353efd)
+A documentação da API pode ser acessada [aqui].(https://documenter.getpostman.com/view/9133542/TzCTZkQr#9416bc30-1a6c-4afe-9c45-c414f3353efd)
 
 # `Modo de usar`
 Ao iniciar a ferramenta, o usuário pode escolher entre as opções "Listar viagens", "Área restrita" e "Sobre". 
