@@ -25,9 +25,7 @@ As requisições utilizadas para realizar este projeto foram:
 *endpoints utilizados apenas em desenvolvimento
 </br>
 
-Desenvolvido por: Evandro Paulo Folletto
-[Acessar repostório no GitHub](https://github.com/future4code/alves-Evandro-Folletto/pull/35)
-[Acessar documentação da API](https://documenter.getpostman.com/view/9133542/TzCTZkQr#9416bc30-1a6c-4afe-9c45-c414f3353efd)
+A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/9133542/TzCTZkQr#9416bc30-1a6c-4afe-9c45-c414f3353efd)
 
 # `Modo de usar`
 Ao iniciar a ferramenta, o usuário pode escolher entre as opções "Listar viagens", "Área restrita" e "Sobre". 
