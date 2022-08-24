@@ -89,5 +89,3 @@ Evandro Paulo Folletto
 <img src="./src/assets/img/readme/site6.png"/>
 <img src="./src/assets/img/readme/site7.png"/>
 <img src="./src/assets/img/readme/site8.png"/>
-
-
