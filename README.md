@@ -84,10 +84,23 @@ Evandro Paulo Folletto
 ### Página Home
 <img src="./src/assets/img/readme/site1.png"/>
 
+### Página Sobre
 <img src="./src/assets/img/readme/site2.png"/>
+
+### Página Lista de viagens
 <img src="./src/assets/img/readme/site3.png"/>
+
+### Página Inscrever-se
 <img src="./src/assets/img/readme/site4.png"/>
+
+### Página Painel administrativo
 <img src="./src/assets/img/readme/site5.png"/>
+
+### Página Detalhes viagem
 <img src="./src/assets/img/readme/site6.png"/>
+
+### Página Criar viagem
 <img src="./src/assets/img/readme/site7.png"/>
+
+### Página Login
 <img src="./src/assets/img/readme/site8.png"/>
