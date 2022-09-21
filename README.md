@@ -6,6 +6,7 @@ Projeto LabeX
 
 
 # `Descrição`
+[Projeto desenvolvido na semana 11 do curso Labenu]. </br>
 O Projeto LabeX foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições para a API desenvolvida pela equipe da Labenu, via axios.
 Trata-se de uma ferramenta onde tanto usuários quanto administradores podem navegar: </br>
 Os usuários podem verificar as viagens disponíveis e candidatar-se para as mesmas; </br>
