@@ -5,7 +5,7 @@ Projeto LabeX
 [Clique aqui!](https://folletto-labex.surge.sh)
 
 # `Login e senha`
-**email**: folletto-evandro@gmail.com
+**email**: folletto-evandro@gmail.com </br>
 **senha**: 111111
 
 # `Descrição`
