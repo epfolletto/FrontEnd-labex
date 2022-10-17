@@ -4,6 +4,9 @@ Projeto LabeX
 # `Link`
 [Clique aqui!](https://folletto-labex.surge.sh)
 
+# `Login e senha`
+**email**: folletto-evandro@gmail.com
+**senha**: 111111
 
 # `Descrição`
 [Projeto desenvolvido na semana 11 do curso Labenu]. </br>
